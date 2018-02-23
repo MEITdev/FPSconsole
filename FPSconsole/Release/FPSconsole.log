@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Source.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+Source.cpp(141): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  All 171 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FPSconsole.vcxproj -> P:\VS_projects\FPSconsole\Release\FPSconsole.exe
